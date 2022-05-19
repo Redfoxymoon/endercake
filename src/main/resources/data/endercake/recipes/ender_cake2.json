@@ -1,0 +1,21 @@
+    {
+      "type": "minecraft:crafting_shaped",
+      "pattern": [
+        "EEE",
+        "ECE",
+        "EEE"
+      ],
+      "key": {
+        "C": {
+		  "item": "endercake:chocolate_cake"
+        },
+        "E": {
+          "item": "minecraft:ender_eye"
+        }
+      },
+      "result": {
+        "item": "endercake:ender_cake",
+        "count": 1
+      }
+    }
+

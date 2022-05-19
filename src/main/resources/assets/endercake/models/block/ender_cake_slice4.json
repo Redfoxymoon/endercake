@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "endercake:block/ender_cake_side",
+        "bottom": "endercake:block/ender_cake_bottom",
+        "top": "endercake:block/ender_cake_top",
+        "side": "endercake:block/ender_cake_side",
+        "inside": "endercake:block/ender_cake_inner"
+    },
+    "elements": [
+        {   "from": [ 9, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#inside" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}

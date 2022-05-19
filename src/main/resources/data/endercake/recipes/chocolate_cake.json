@@ -1,0 +1,27 @@
+    {
+      "type": "minecraft:crafting_shaped",
+      "pattern": [
+        "CCC",
+        "SES",
+        "WWW"
+      ],
+      "key": {
+        "C": {
+          "item": "minecraft:cocoa_beans"
+        },
+        "S": {
+          "item": "minecraft:sugar"
+        },
+        "E": {
+          "item": "minecraft:egg"
+        },
+        "W": {
+          "item": "minecraft:wheat"
+        }
+      },
+      "result": {
+        "item": "endercake:chocolate_cake",
+        "count": 1
+      }
+    }
+
